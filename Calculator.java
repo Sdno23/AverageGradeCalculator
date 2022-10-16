@@ -9,7 +9,6 @@
  *
  * Lecturer's Name: C. Charters
  */
- 
 package main;
 import java.util.Scanner;
 
@@ -18,7 +17,7 @@ import java.util.Scanner;
  * @author 3156908
  */
 
-public class main {
+public class Calculator {
 
     /**
      * @param args no arguments used in this method.

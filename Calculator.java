@@ -1,5 +1,5 @@
 /*
- * @author 3156908
+ * @author XXXXX08
  *
  * @version 1.0 05/25/2020
  *
@@ -9,12 +9,12 @@
  *
  * Lecturer's Name: C. Charters
  */
-package main;
+package averagegradecalculator;
 import java.util.Scanner;
 
 /**
  *
- * @author 3156908
+ * @author XXXXX08
  */
 
 public class Calculator {
